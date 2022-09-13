@@ -11,7 +11,7 @@
 
 
 
-    <p>Dany Miranda....Prueba de Sincronización</p>
+    <p>Amilcar Larias....Prueba de Sincronización</p>
 
     
 
